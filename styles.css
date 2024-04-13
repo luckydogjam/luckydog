@@ -74,7 +74,7 @@ body, html {
 
   @media (max-width: 430px) {
     .logo-container img {
-      width: 300px;
+      width: 125px;
     }
   }
 
