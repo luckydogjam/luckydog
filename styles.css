@@ -4,11 +4,11 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #f7f7f7;
+    background-color: #ffffff;
 }
 
 .logo-container img {
-    width: 400px;
+    width: 125px;
     height: auto;
 }
 
